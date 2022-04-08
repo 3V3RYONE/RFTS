@@ -22,3 +22,9 @@ Road Freight Transport System. A database project globally served to overcome th
     * Click on **Back To Services** again, and check the updated details for the transaction by clicking **View Records** button.  
   
 Thus, this RFTS system leaves no possibilities of goods scams.  
+  
+# Tools Used  
+* The RFTS website is globally hosted through [000webhost](https://www.000webhost.com/).  
+* HTML, CSS and JS is used for frontend development of the website.  
+* PHP is used for backend development of the website.   
+* mySQL/phpMyAdmin is used for managing the database services. 
